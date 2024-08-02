@@ -1,10 +1,11 @@
 # install
-pkg update
-pkg upgrade
-pkg install python
-pkg install git
-pkg install wget
-pkg install unzip
+
+pkg update <br>
+pkg upgrade <br>
+pkg install python <br>
+pkg install git <br>
+pkg install wget <br> 
+pkg install unzip <br> 
 
 
 ~ wget https://chromedriver.storage.googleapis.com/xx.x.x/chromedriver_linux64.zip
