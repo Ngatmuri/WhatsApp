@@ -8,8 +8,8 @@ pkg install wget <br>
 pkg install unzip <br> 
 
 
-~ wget https://chromedriver.storage.googleapis.com/xx.x.x/chromedriver_linux64.zip
-~ unzip chromedriver_linux64.zip
-~ mv chromedriver ~/bin/
+<br> wget https://chromedriver.storage.googleapis.com/xx.x.x/chromedriver_linux64.zip
+<br>  unzip chromedriver_linux64.zip
+<br> mv chromedriver ~/bin/
 
-python whatsapp_typing_bot.py
+<br> python whatsapp_typing_bot.py
